@@ -14,8 +14,8 @@ My stance on things is very neutral unless it's related to things like black hat
 <img align="left" width="40px" style="padding-right: 15px" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" width="40px" style="padding-right: 15px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="40px" style="padding-right: 15px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
-
+<br>
+<br>
 ### **Stats 📊**
 
 ![NotS1ick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotS1ick&show_icons=true&theme=tokyonight)
