@@ -1,6 +1,6 @@
 # Hi there 👋, I'm NotS1ick
 
-**Things I love doing in my free time`(Programming, Photoshoping, Video Editing, Gaming, Cft's)`**
+Things I love doing in my free time **`(Programming, Photoshoping, Video Editing, Gaming, Cft's)`**
 
 You may ask who am I. I'm a teen who loves programming, cft's and cybersecurity related things. I'm that kind of person who helps <br>
 people who are having a problem with their computer or they have been defrauded, hacked or their computers have been infected. My stance on things<br>
