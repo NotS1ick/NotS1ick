@@ -1,4 +1,4 @@
-<h1 color="Purple"><b> Hi there 👋, I'm NotS1ick</b></h1>
+# **Hi there 👋, I'm `NotS1ick`**
 
 Things I love doing in my free time **`(Programming, Photoshoping, Video Editing, Gaming, Cft's)`**
 
