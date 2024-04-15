@@ -1,4 +1,4 @@
-# **`NotS1ick`**
+# **💻`NotS1ick`**
 
 Things I love doing in my free time **`(Programming, Photoshoping, Video Editing, Gaming, Cft's)`**
 
