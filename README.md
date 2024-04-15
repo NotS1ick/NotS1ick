@@ -9,7 +9,6 @@ My stance on things is very neutral unless it's related to things like black hat
 <br>
 <br>
 ## Programming Languages That I know (at a decent level)
-<hr>
 <img align="left" width="40px" style="padding-right: 15px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" width="40px" style="padding-right: 15px" alt="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="40px" style="padding-right: 15px" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
