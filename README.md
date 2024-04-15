@@ -10,5 +10,5 @@ My stance on things is very neutral unless it's related to things like black hat
 <br>
 ## Programming Languages That I know
 <hr>
-<img align="left" width="30px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask"/>
+<img align="left" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask"/>
         
