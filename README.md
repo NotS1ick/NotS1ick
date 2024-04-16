@@ -16,8 +16,8 @@ My stance on things is very neutral unless it's related to things like black hat
 <img align="left" width="40px" style="padding-right: 15px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <br>
 <br>
-
-## **Stats** 📊
+<br>
+### **Stats** 📊
 
 <br>
 
