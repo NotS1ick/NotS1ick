@@ -19,7 +19,7 @@ My stance on things is very neutral unless it's related to things like black hat
 <br>
 <br>
 <br>
-# **Stats** 📊
+# **Stats**  📊
 <br>
 <br>
 
