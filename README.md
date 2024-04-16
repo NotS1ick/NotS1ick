@@ -23,4 +23,5 @@ My stance on things is very neutral unless it's related to things like black hat
 ### **Stats** 📊
 
 <br>
+
 ![NotS1ick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotS1ick&show_icons=true&theme=tokyonight)
