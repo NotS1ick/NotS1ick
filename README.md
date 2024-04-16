@@ -18,9 +18,9 @@ My stance on things is very neutral unless it's related to things like black hat
 <br>
 <br>
 <br>
-<br>
+<br />
 ## **Stats** 📊
-<br>
-<br>
+<br />
+<br />
 
 ![NotS1ick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotS1ick&show_icons=true&theme=tokyonight)
