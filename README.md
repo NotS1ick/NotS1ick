@@ -8,9 +8,8 @@ people`** who are having a **`problem`** with their computer or they have been d
 <br>
 <br>
 ## **Programming Languages That I know (at a decent level)**
-<img align="left" width="40px" style="padding-right: 15px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" width="40px" style="padding-right: 15px" alt="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="40px" style="padding-right: 15px" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" width="40px" style="padding-right: 15px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="40px" style="padding-right: 15px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
+<img align="left" width="40px" style="padding-right: 15px" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c#/c#-original.svg" />
