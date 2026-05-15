@@ -2,8 +2,7 @@
 
 Things I love doing in my free time **`(Programming, Photoshoping, Video Editing, Gaming, Cft's)`**
 
-You may ask who am I. I'm a teen who **`loves programming`**, **`cft's`** and **`cybersecurity`** related things. I'm that kind of person who **`helps
-people`** who are having a **`problem`** with their computer or they have been defrauded, hacked or their computers have been infected.<br>
+You may ask who am I. I'm a teen who **`loves programming`**, **`cft's`** and **`cybersecurity`** related things.
 <br>
 <img align="left" width="40px" style="padding-right: 15px" alt="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="40px" style="padding-right: 15px" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
